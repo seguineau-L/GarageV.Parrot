@@ -1,2 +1,6 @@
 # GarageV.Parrot
-ecf garage Vincent Parrot
+#Mon premier projet Git
+
+Ce repository a été créé lors d’un projet étudiant: ECF créer le site web d'un garagiste.
+
+
